@@ -1,4 +1,4 @@
-### Olá, Eu sou o Diogo Perez
+### Olá, Eu sou o Diogo Perez, desenvolvedor Front-end Web/Mobile
 
 ![Blog](https://img.shields.io/website?label=DiogoPerez.com&style=for-the-badge&url=https://portifolio-five-pearl.vercel.app/)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
