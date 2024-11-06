@@ -1,9 +1,8 @@
 ### Olá, Eu sou o Diogo Perez, desenvolvedor Front-end Web/Mobile
 
-![Blog](https://img.shields.io/website?label=DiogoPerez.com&style=for-the-badge&url=https://portifolio-five-pearl.vercel.app/)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
+[![Blog](https://img.shields.io/website?label=DiogoPerez.com&style=for-the-badge&url=https://portifolio-five-pearl.vercel.app/)](https://portifolio-five-pearl.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo_perez_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-perez/)
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-perez&show_icons=true&theme=dracula)
 ### Tecnologias que uso no meu dia
