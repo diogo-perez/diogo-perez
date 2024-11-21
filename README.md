@@ -6,7 +6,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-perez/)
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-perez&show_icons=true&theme=dracula)
-### Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
