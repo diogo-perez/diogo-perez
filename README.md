@@ -1,4 +1,4 @@
-### Olá, Eu sou o Diogo Perez, desenvolvedor Front-end Web/Mobile
+### Olá, Eu sou o Diogo Perez, desenvolvedor Web/Mobile
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da tecnologia.
 
 [![Blog](https://img.shields.io/website?label=DiogoPerez.com&style=for-the-badge&url=https://portifolio-five-pearl.vercel.app/)](https://portifolio-five-pearl.vercel.app/)
